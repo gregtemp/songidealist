@@ -19,3 +19,7 @@
 - playing with magenta / nsynth
 
 add your own!
+
+# risset rhythm
+works with beats and melody
+![](https://github.com/gregtemp/songidealist/raw/main/risset%20rhythm.png)
